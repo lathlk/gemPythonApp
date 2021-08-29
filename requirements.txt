@@ -1,7 +1,7 @@
 absl-py==0.2.2
 astor==0.7.1
 astroid==2.0.4
-bleach==1.5.0
+bleach==3.3.0
 bottle==0.12.13
 certifi==2018.4.16
 colorama==0.3.9
